@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'An example conference paper'
 
 # Authors
