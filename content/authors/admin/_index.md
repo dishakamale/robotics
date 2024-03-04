@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Disha Kamale
+title: Academic
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
