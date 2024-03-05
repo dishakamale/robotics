@@ -83,6 +83,14 @@ sections:
           date_start: '2019-06-01'
           date_end: '2020-05-31'
           <!-- description: Taught electronic engineering and researched semiconductor physics. -->
+        - title: Summer Research Intern
+          company: The Biorobotics Institute, Sant'Anna School of Advanced Studies
+          company_url: ''
+          company_logo: ''
+          location: Italy
+          date_start: '2018-05-01'
+          date_end: '2018-08-31'
+          <!-- description: Taught electronic engineering and researched semiconductor physics. -->
     design:
       columns: '2'
   - block: accomplishments
