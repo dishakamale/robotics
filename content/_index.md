@@ -66,23 +66,23 @@ sections:
           company: Lehigh University
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: USA
           date_start: '2020-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Visiting Research Intern
+          company: University of Lincoln
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: UK
+          date_start: '2019-06-01'
+          date_end: '2020-05-31'
+          <!-- description: Taught electronic engineering and researched semiconductor physics. -->
     design:
       columns: '2'
   - block: accomplishments
@@ -181,25 +181,25 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
