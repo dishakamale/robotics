@@ -1,7 +1,8 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: The World Through a Robot’s Lens- Enabling Complex Decision-Making With The Help of Reactive Games
+date: '2023-11-29'
+summary: Perpcetion-aware Planning Non-technical Summary
+url: 'https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/'
 ---
 
 

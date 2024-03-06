@@ -138,11 +138,10 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      subtitle: 'The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games'
+      subtitle: ''
       text: ''
-      url: 'https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
