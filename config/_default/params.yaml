@@ -70,7 +70,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    # url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/<username>'
     content_dir: content
     branch: main
   avatar:
