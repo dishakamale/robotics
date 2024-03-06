@@ -63,8 +63,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Research Assistant
-          company: Lehigh University
-          company_url: ''
+          company: Autonomous and Intelligent Robotics Lab, Lehigh University
+          company_url: 'https://wordpress.lehigh.edu/robotics/'
           company_logo: ''
           location: USA
           date_start: '2020-01-01'
@@ -76,16 +76,16 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Visiting Research Intern
-          company: University of Lincoln
-          company_url: ''
+          company: Intelligent Manipulation Lab, University of Lincoln (now University of Surrey)
+          company_url: 'https://intmanlab.com/index.html'
           company_logo: ''
           location: UK
           date_start: '2019-06-01'
           date_end: '2020-05-31'
           <!-- description: Taught electronic engineering and researched semiconductor physics. -->
         - title: Summer Research Intern
-          company: The Biorobotics Institute, Sant'Anna School of Advanced Studies
-          company_url: ''
+          company: Neuro-robotic Touch Lab, Sant'Anna School of Advanced Studies
+          company_url: 'https://www.santannapisa.it/en/institute/biorobotics/neuro-robotic-touch-laboratory'
           company_logo: ''
           location: Italy
           date_start: '2018-05-01'
