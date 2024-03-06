@@ -134,33 +134,34 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: 'The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games'
+      text: ''
+      url: 'https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
