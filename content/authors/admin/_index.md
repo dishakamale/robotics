@@ -124,5 +124,5 @@ Hello! I am a Ph.D. student at Lehigh University advised by Prof. Cristian-Ioan 
 
 Before embarking on my journey at Lehigh, I was a visiting research intern at the Intelligent Manipulation Lab, University of Lincoln, UK where I got the opporutnity to work on planning and control for human-robot shared manipulation.
 
-[Here](https://dishakamale.github.io/ddk_hugo/uploads/resume.pdf) is my professional summary.  
+[Here](https://dishakamale.github.io/robotics/uploads/resume.pdf) is my professional summary.  
 {style="text-align: justify;"}
