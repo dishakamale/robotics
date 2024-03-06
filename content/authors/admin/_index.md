@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Disha Kamale
-
+slug : ''
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Robotics
+    - course: PhD, Mechanical Engineering and Mechanics
       institution: Lehigh University
       year: 2020 - present
     # - course: MEng in Artificial Intelligence
@@ -122,7 +122,7 @@ highlight_name: true
 
 Hello! I am a Ph.D. student at Lehigh University advised by Prof. Cristian-Ioan Vasile. I am highly interested in perception-aware planning and control for autonomous robots with safety and correctness guarantees. 
 
-Before embarking on my journey at Lehigh, I was a visiting research intern at the Intelligent Manipulation Lab, University of Lincoln, UK where I worked on planning and control for human-robot shared manipulation.
+Before embarking on my journey at Lehigh, I was a visiting research intern at the Intelligent Manipulation Lab, University of Lincoln, UK where I got the opporutnity to work on planning and control for human-robot shared manipulation.
 
-My CV is available [here](https://dishakamale.github.io/ddk_hugo/uploads/resume.pdf). 
+[Here](https://dishakamale.github.io/ddk_hugo/uploads/resume.pdf) is my professional summary.  
 {style="text-align: justify;"}
