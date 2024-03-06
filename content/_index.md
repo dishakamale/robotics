@@ -90,6 +90,13 @@ sections:
           location: Italy
           date_start: '2018-05-01'
           date_end: '2018-08-31'
+        - title: Undergraduate Student Researcher
+          company: IvLabs, Visvesvaraya National Institute of Technology
+          company_url: 'https://www.ivlabs.in/'
+          company_logo: ''
+          location: India
+          date_start: '2016-05-01'
+          date_end: '2019-05-31'
     design:
       columns: '2'
   # - block: accomplishments
