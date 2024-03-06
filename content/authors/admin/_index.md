@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Robotics
       institution: Lehigh University
-      year: 2020
+      year: 2020 - present
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
