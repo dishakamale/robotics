@@ -122,7 +122,7 @@ highlight_name: true
 
 Hello! I am a Ph.D. student at Lehigh University advised by Prof. Cristian-Ioan Vasile. I am highly interested in perception-aware planning and control for autonomous robots with safety and correctness guarantees. 
 
-Before embarking on my journey at Lehigh, I was a visiting research intern at the Intelligent Manipulation Lab, University of Lincoln, UK where I got the opporutnity to work on planning and control for human-robot shared manipulation.
+Before embarking on my journey at Lehigh, I was a visiting research intern at the Intelligent Manipulation Lab, University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation.
 
 [Here](https://dishakamale.github.io/robotics/uploads/resume.pdf) is my professional summary.  
 {style="text-align: justify;"}
