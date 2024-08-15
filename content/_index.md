@@ -75,6 +75,19 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
+        - title: Summer Research Intern
+          company: Honda Research Institute, USA
+          company_url: 'https://usa.honda-ri.com/'
+          company_logo: ''
+          location: USA
+          date_start: '2024-05-20'
+          date_end: '2024-08-23'
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Visiting Research Intern
           company: Intelligent Manipulation Lab, University of Lincoln (now University of Surrey)
           company_url: 'https://intmanlab.com/index.html'
