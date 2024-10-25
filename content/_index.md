@@ -231,7 +231,6 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      count: 12
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
