@@ -230,7 +230,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: 
+      title: Recent Publications
       count: 12
       text: |-
         {{% callout note %}}
