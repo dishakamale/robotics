@@ -28,3 +28,8 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
+
+    main:
+  - name: Research
+    url: '/research/'
+    weight: 80  # Adjust this number to control menu order
