@@ -16,7 +16,8 @@ sections:
       title: Perception-Aware Planning
       filters:
         folders:
-          - research/perception-aware
+          - research/perception-aware/active-exploration
+          - research/perception-aware/cautious-planning
     design:
       view: showcase
       columns: '1'
