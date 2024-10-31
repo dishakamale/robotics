@@ -1,7 +1,7 @@
 ---
 title: MILP for Control Synthesis with Weighted Signal Temporal Logic
 summary: An optimization-based control synthesis approach for weighted Signal Temporal Logic (wSTL), incorporating user preferences and priorities through weighted logical and temporal operators.
-date: '2024-01-07'  # Adjust date to control display order
+date: '2023-01-07'  # Adjust date to control display order
 
 image:
  caption: 'wSTL Control Synthesis Framework'

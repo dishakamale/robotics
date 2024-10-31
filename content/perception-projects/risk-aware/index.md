@@ -1,7 +1,7 @@
 ---
 title: Symbolic Perception Risk in Autonomous Driving
 summary: A framework for assessing misperception risk in traffic sign classification with gradually improving visual inputs, using conditional value-at-risk (CVaR) analysis.
-date: '2024-01-06'  # Adjust date to control display order
+date: '2023-01-06'  # Adjust date to control display order
 
 image:
  caption: 'Perception Risk Assessment Framework'

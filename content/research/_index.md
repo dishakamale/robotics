@@ -21,7 +21,7 @@ sections:
     design:
       columns: '1'
       view: showcase
-      flip_alt_rows: false
+      ##flip_alt_rows: false
 
   - block: portfolio
     content:
