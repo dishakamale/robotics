@@ -19,6 +19,8 @@ sections:
           - project
         categories:
           - Perception-Aware
+        exclude_categories:
+          - User-Planning
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       
@@ -37,7 +39,8 @@ sections:
           - project
         categories:
           - User-Planning
-      
+        exclude_categories:
+          - Perception-Aware
     design:
       columns: '1'
       view: showcase
