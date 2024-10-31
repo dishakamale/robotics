@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-    - block: portfolio
+  - block: portfolio
     id: research
     content:
       title: Perception-Aware Planning
