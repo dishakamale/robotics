@@ -3,6 +3,15 @@ title: Research Projects
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: ""
+      text: ""
+    design:
+      spacing:
+        padding: ["50px", "0", "0", "0"]
+
+sections:
   - block: portfolio
     content:
       title: Perception-Aware Planning
