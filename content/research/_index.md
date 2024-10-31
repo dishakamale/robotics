@@ -24,4 +24,6 @@ sections:
     design:
       columns: '1'
       view: showcase
+      spacing:
+        padding: ["100px", "0", "0", "0"]  # top, right, bottom, left
 ---
