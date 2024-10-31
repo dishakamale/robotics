@@ -8,6 +8,10 @@ date: '2024-01-01'
 image:
   caption: 'Reactive Planning Framework'
   focal_point: Smart
+  placement: 1
+  preview_only: false
+  # Add these lines to control image size
+  width: 60%    # Adjust this percentage to make image smaller
 
 links:
   - icon: file-pdf
