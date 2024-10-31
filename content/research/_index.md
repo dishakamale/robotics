@@ -11,18 +11,18 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-
   - block: collection
     content:
       title: Perception-Aware Planning
-      count: 0
       filters:
         folders:
           - research/perception-aware
-        
     design:
-      columns: '1'
       view: showcase
+      columns: '1'
+      spacing:
+        padding: ["100px", "0", "0", "0"]
+        
       
   - block: portfolio
     content:
