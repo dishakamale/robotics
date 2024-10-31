@@ -3,13 +3,6 @@ title: Research
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: ""
-      text: ""
-    design:
-      spacing:
-        padding: ["100px", "0", "0", "0"]
 
   - block: portfolio
     content:
