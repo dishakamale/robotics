@@ -1,11 +1,9 @@
 ---
 title: Reactive Planning using Incrementally-Improving Symbolic Perception
 summary: A framework for utilizing incrementally-improving symbolic perception knowledge for provably correct reactive control synthesis in autonomous driving.
-tags:
-  - Perception-Aware
 date: '2024-01-01'
-featured: true
-show_date: false
+tags:
+  - perception-aware  # Changed from categories to tags
 
 image:
   caption: 'Reactive Planning Framework'
