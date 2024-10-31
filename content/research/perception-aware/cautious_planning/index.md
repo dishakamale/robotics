@@ -18,7 +18,10 @@ links:
     icon_pack: fas
     name: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10160960
-  - icon:  
+  - icon: newspaper
+    icon_pack: fas
+    name: Article
+    url: https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/
 ---
 
 This work presents a step towards utilizing incrementally-improving symbolic perception knowledge of the robot's surroundings for provably correct reactive control synthesis applied to an autonomous driving problem.
