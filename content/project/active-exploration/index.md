@@ -14,7 +14,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Paper
-    url: #paperlink
+    url: https://ieeexplore.ieee.org/abstract/document/10383606/
 ---
 
 We consider the problem of autonomous exploration in search of targets while respecting a fixed energy budget. The robot is equipped with an incremental-resolution symbolic perception module wherein the perception of targets in the environment improves as the robot's distance from targets decreases.
