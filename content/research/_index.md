@@ -15,7 +15,7 @@ sections:
   - block: collection
     content:
       title: Perception-Aware Planning
-      count: 0
+      count: 2
       filters:
         folders:
           - research/perception-aware
