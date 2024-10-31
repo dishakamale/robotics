@@ -11,19 +11,22 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-  - block: portfolio
+    - block: portfolio
+    id: research
     content:
       title: Perception-Aware Planning
+      subtitle: ''
+      text: ''
       filters:
+        exclude_featured: false
         folders:
-          - research/perception-aware/active-exploration
-          - research/perception-aware/cautious-planning
+          - research/perception-aware
+      sort_by: Date
+      
     design:
-      view: showcase
       columns: '1'
-      spacing:
-        padding: ["100px", "0", "0", "0"]
-        
+      view: showcase
+      flip_alt_rows: false        
       
   - block: portfolio
     content:
