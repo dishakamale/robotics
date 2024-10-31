@@ -11,7 +11,7 @@ sections:
       filters:
         folders:
           - research/perception-aware
-      default_button_index: 0
+      default_button_index: 1
       
     design:
       columns: '1'
