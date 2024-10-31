@@ -16,19 +16,11 @@ sections:
       title: Perception-Aware Planning
       filters:
         folders:
-          - project
-        categories:
-          - Perception-Aware
-        exclude_categories:
-          - User-Planning
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+          - perception-projects
       
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
-      # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
   - block: portfolio
@@ -36,11 +28,8 @@ sections:
       title: User Planning with User Preferences
       filters:
         folders:
-          - project
-        categories:
-          - User-Planning
-        exclude_categories:
-          - Perception-Aware
+          - user-projects
+      
     design:
       columns: '1'
       view: showcase
