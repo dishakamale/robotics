@@ -12,16 +12,11 @@ sections:
         padding: ["100px", "0", "0", "0"]
 
   - block: collection
-    id: research
     content:
       title: Perception-Aware Planning
-      subtitle: ''
-      text: ''
       filters:
-        folders:
-          - research/perception-aware
-      sort_by: Date
-      
+        tag: Perception-Aware
+        
     design:
       columns: '1'
       view: showcase

@@ -1,23 +1,23 @@
-# content/research/perception-aware/active_exploration/index.md
 ---
 title: Energy-constrained Active Exploration with Incremental Perception
 summary: An autonomous exploration framework that optimizes target search under energy constraints while leveraging incremental-resolution symbolic perception.
+tags:
+  - Perception-Aware
 date: '2024-01-02'
+featured: true
+show_date: false
+
 image:
   caption: 'Active Exploration Framework'
   focal_point: Smart
   preview_only: false
-  width: 60%    # Match the size of your first project
+  width: 60%
 
 links:
   - icon: file-pdf
     icon_pack: fas
     name: Paper
     url: #paperlink
-  - icon: code
-    icon_pack: fas
-    name: Code
-    url: #codelink
 ---
 
 We consider the problem of autonomous exploration in search of targets while respecting a fixed energy budget. The robot is equipped with an incremental-resolution symbolic perception module wherein the perception of targets in the environment improves as the robot's distance from targets decreases.
