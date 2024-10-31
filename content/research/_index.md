@@ -12,12 +12,14 @@ sections:
         padding: ["100px", "0", "0", "0"]
 
 sections:
-  - block: portfolio
+  - block: collection
     content:
       title: Perception-Aware Planning
+      count: 0
       filters:
-        tags:
-          - Perception-Aware
+        folders:
+          - research/perception-aware/cautious_planning
+          - research/perception-aware/active-exploration
         
     design:
       columns: '1'
