@@ -18,6 +18,7 @@ links:
     icon_pack: fas
     name: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10160960
+  - icon:  
 ---
 
 This work presents a step towards utilizing incrementally-improving symbolic perception knowledge of the robot's surroundings for provably correct reactive control synthesis applied to an autonomous driving problem.
