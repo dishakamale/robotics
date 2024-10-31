@@ -18,8 +18,7 @@ sections:
       count: 0
       filters:
         folders:
-          - research/perception-aware/cautious_planning
-          - research/perception-aware/active_exploration
+          - research/perception-aware
         
     design:
       columns: '1'
