@@ -8,18 +8,18 @@ image:
  focal_point: Smart
  preview_only: false
 
-links:
- - icon: file-pdf
-   icon_pack: fas
-   name: Paper
-   url: #paperlink  # Add your paper link here
- - icon: code
-   icon_pack: fas
-   name: Code
-   url: #codelink  # Add your code repository link here
+# links:
+#  - icon: file-pdf
+#    icon_pack: fas
+#    name: Paper
+#    url: #paperlink  # Add your paper link here
+#  - icon: code
+#    icon_pack: fas
+#    name: Code
+#    url: #codelink  # Add your code repository link here
 ---
 
-This work presents an efficient A∗-based planning framework for handling temporal logic tasks in large-scale robot environments, incorporating user preferences when full task compliance is not achievable.
+<!-- This work presents an efficient A∗-based planning framework for handling temporal logic tasks in large-scale robot environments, incorporating user preferences when full task compliance is not achievable.
 
 ## Key Features
 
@@ -78,4 +78,4 @@ Particularly suitable for:
 - Large-scale robot environments
 - Complex temporal logic tasks
 - Time-critical planning scenarios
-- Resource-constrained operations
+- Resource-constrained operations -->

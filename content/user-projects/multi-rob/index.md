@@ -12,14 +12,10 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Paper
-    url: #paperlink  # Add your paper link here
-  - icon: code
-    icon_pack: fas
-    name: Code
-    url: #codelink  # Add your code repository link here
+    url: https://arxiv.org/abs/2406.01848
 ---
 
-This work presents a novel approach to control synthesis for homogeneous multi-robot teams, combining temporal logic specifications with formal user preferences for specification relaxation.
+<!-- This work presents a novel approach to control synthesis for homogeneous multi-robot teams, combining temporal logic specifications with formal user preferences for specification relaxation.
 
 ## Key Features
 
@@ -72,4 +68,4 @@ Case studies demonstrate:
 - Computational efficiency
 - Successful mission completion
 - Effective relaxation handling
-- Practical applicability to real-world scenarios
+- Practical applicability to real-world scenarios -->

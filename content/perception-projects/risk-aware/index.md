@@ -15,7 +15,7 @@ links:
    url: https://ieeexplore.ieee.org/abstract/document/10155904
 ---
 
-We present a novel framework for assessing and quantifying the risk of misperception in autonomous driving scenarios, focusing on traffic sign classification under varying visual conditions.
+<!-- We present a novel framework for assessing and quantifying the risk of misperception in autonomous driving scenarios, focusing on traffic sign classification under varying visual conditions.
 
 ## Key Features
 
@@ -79,4 +79,4 @@ Case studies demonstrate:
 - Effective risk quantification
 - Practical applicability
 - Robust performance under varying conditions
-- Successful misperception mitigation
+- Successful misperception mitigation -->

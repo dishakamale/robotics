@@ -15,7 +15,7 @@ links:
     url: https://ieeexplore.ieee.org/document/9635906
 ---
 
-This paper introduces an automata-based framework for planning with relaxed specifications, incorporating user preferences and flexible task modifications.
+<!-- This paper introduces an automata-based framework for planning with relaxed specifications, incorporating user preferences and flexible task modifications.
 
 ## Key Features
 
@@ -68,4 +68,4 @@ Our case study demonstrates:
 - Efficient runtime performance
 - Multiple relaxation modalities
 - Practical applicability
-- Balanced optimization outcomes
+- Balanced optimization outcomes -->

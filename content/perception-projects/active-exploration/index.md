@@ -17,7 +17,7 @@ links:
     url: https://ieeexplore.ieee.org/abstract/document/10383606/
 ---
 
-We consider the problem of autonomous exploration in search of targets while respecting a fixed energy budget. The robot is equipped with an incremental-resolution symbolic perception module wherein the perception of targets in the environment improves as the robot's distance from targets decreases.
+<!-- We consider the problem of autonomous exploration in search of targets while respecting a fixed energy budget. The robot is equipped with an incremental-resolution symbolic perception module wherein the perception of targets in the environment improves as the robot's distance from targets decreases.
 
 ## Key Features
 
@@ -51,4 +51,4 @@ The framework demonstrates:
 - Efficient online planning capabilities
 - Effective target discovery
 - Energy-aware exploration strategies
-- Robust performance in unknown environments
+- Robust performance in unknown environments -->

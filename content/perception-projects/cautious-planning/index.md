@@ -24,7 +24,7 @@ links:
     url: https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/
 ---
 
-This work presents a step towards utilizing incrementally-improving symbolic perception knowledge of the robot's surroundings for provably correct reactive control synthesis applied to an autonomous driving problem.
+<!-- This work presents a step towards utilizing incrementally-improving symbolic perception knowledge of the robot's surroundings for provably correct reactive control synthesis applied to an autonomous driving problem.
 
 ## Key Features
 
@@ -64,4 +64,4 @@ The system demonstrates the efficacy of the proposed approach in synthesizing co
 3. Safe behavior in uncertain conditions
 4. Verified reactive planning
 
-The framework ensures that the autonomous vehicle behaves cautiously while gathering more information about its environment, making it particularly suitable for real-world driving scenarios where complete information may not be immediately available.
+The framework ensures that the autonomous vehicle behaves cautiously while gathering more information about its environment, making it particularly suitable for real-world driving scenarios where complete information may not be immediately available. -->
