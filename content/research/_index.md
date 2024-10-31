@@ -11,14 +11,13 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-  - block: portfolio
+  - block: collection
     id: research
     content:
       title: Perception-Aware Planning
       subtitle: ''
       text: ''
       filters:
-        exclude_featured: false
         folders:
           - research/perception-aware
       sort_by: Date
@@ -39,5 +38,5 @@ sections:
       columns: '1'
       view: showcase
       spacing:
-        padding: ["100px", "0", "0", "0"]  # top, right, bottom, left
+        padding: ["100px", "0", "0", "0"]
 ---
