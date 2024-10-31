@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Research
 type: landing
 
 sections:
@@ -11,24 +11,33 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-  - block: collection
+  - block: portfolio
     content:
       title: Perception-Aware Planning
       filters:
-        tag: Perception-Aware
-        
+        folders:
+          - project
+        categories:
+          - Perception-Aware
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
-      flip_alt_rows: false        
-      
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   - block: portfolio
     content:
       title: User Planning with User Preferences
       filters:
-        tags:
+        folders:
+          - project
+        categories:
           - User-Planning
-        
+      
     design:
       columns: '1'
       view: showcase

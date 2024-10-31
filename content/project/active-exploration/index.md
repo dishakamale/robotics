@@ -1,12 +1,9 @@
 ---
 title: Energy-constrained Active Exploration with Incremental Perception
 summary: An autonomous exploration framework that optimizes target search under energy constraints while leveraging incremental-resolution symbolic perception.
-tags:
-  - Perception-Aware
 date: '2024-01-02'
-featured: true
-show_date: false
-
+categories:
+  - Perception-Aware
 image:
   caption: 'Active Exploration Framework'
   focal_point: Smart
