@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: ["100px", "0", "0", "0"]
 
-sections:
+
   - block: collection
     content:
       title: Perception-Aware Planning
