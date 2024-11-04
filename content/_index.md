@@ -50,6 +50,22 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+
+  - block: collection
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: ''
+      count: 3  # Number of news items to display
+      filters:
+        folders:
+          - news
+        featured_only: false
+    design:
+      columns: '2'
+      view: compact  # You can also try 'card' or 'list'
+
   - block: experience
     content:
       title: Research Experience
