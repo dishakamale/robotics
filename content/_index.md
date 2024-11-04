@@ -51,20 +51,17 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: collection
-    id: news
+  - block: markdown
     content:
       title: News
       subtitle: ''
-      text: ''
-      count: 3  # Number of news items to display
-      filters:
-        folders:
-          - news
-        featured_only: false
+      text: |
+        - **[Nov 2023]** I will be joining Honda Research Institute, USA as a research intern for Summer 2024
+        - **[Oct 2023]** Paper on "Automata-based Optimal Planning with Relaxed Specifications" accepted at ICRA 2024
+        - **[Sept 2023]** Presented our work on "Perception Risk in Autonomous Driving" at IROS 2023
+        - **[July 2023]** Paper on "MILP Formulation for weighted Signal Temporal Logic" accepted at RAL
     design:
       columns: '2'
-      view: compact  # You can also try 'card' or 'list'
 
   - block: experience
     content:
