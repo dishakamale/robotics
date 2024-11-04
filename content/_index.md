@@ -56,10 +56,11 @@ sections:
       title: News
       subtitle: ''
       text: |
-        - **[Nov 2023]** I will be joining Honda Research Institute, USA as a research intern for Summer 2024
-        - **[Oct 2023]** Paper on "Automata-based Optimal Planning with Relaxed Specifications" accepted at ICRA 2024
-        - **[Sept 2023]** Presented our work on "Perception Risk in Autonomous Driving" at IROS 2023
-        - **[July 2023]** Paper on "MILP Formulation for weighted Signal Temporal Logic" accepted at RAL
+        - **[Oct 2024]** We will be presenting our paper on "Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation" at CDC 2024.
+        - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
+        - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
+        - **[May 2024]** Presented our recent paper on planning with relaxation for multi-robot teams at ICRA 2024, Yokohama, Japan. 
+        - **[May 2024]** Co-organized the workshop on formal methods at ICRA.  
     design:
       columns: '2'
 
