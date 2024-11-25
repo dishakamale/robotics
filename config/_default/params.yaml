@@ -65,7 +65,7 @@ features:
   avatar:
     gravatar: false
     shape: square
-    size : large
+    size : small
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
