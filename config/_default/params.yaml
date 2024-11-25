@@ -64,7 +64,7 @@ locale:
 features:
   avatar:
     gravatar: false
-    shape: rectangle
+    shape: square
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
