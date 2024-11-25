@@ -65,7 +65,8 @@ features:
   avatar:
     gravatar: false
     shape: square
-    size : small
+    padding: 20px    # Adds space around the image
+    border: false    # Removes border if present
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
