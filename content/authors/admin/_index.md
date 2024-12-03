@@ -25,7 +25,7 @@ organizations:
     url: https://wordpress.lehigh.edu/robotics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include safe, perception-aware decision-making and planning with user preferences. 
 
 # Interests to show in About widget
 interests:
