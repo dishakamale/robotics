@@ -1,6 +1,6 @@
 ---
 title: Energy-constrained Active Exploration with Incremental Perception
-summary: An autonomous exploration framework that optimizes target search under energy constraints while leveraging incremental-resolution symbolic perception.
+summary: An active exploration framework that optimizes target search under energy constraints given no prior information. We consider a robot with an incremental-resolution symbolic perception deployed in an environment with known geometry and unknown semantics. Casting this energy-constrained sequentiual decision-making problem as a flow maximization problem, we leverage tools from optimization and graph theory to efficiently plan online as the robot's knowledge about the semantics of the surroundings is updated. 
 date: '2024-01-02'
 categories:
   - Perception-Aware
