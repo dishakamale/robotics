@@ -25,7 +25,7 @@ sections:
 
   - block: portfolio
     content:
-      title: User Planning with User Preferences
+      title: Optimal Planning with User Preferences
       filters:
         folders:
           - user-projects

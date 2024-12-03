@@ -30,8 +30,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Perception-aware Planning
+  - Optimal Planning with User Preferences
   - Safe Decision-making
-  - Formal Methods
+  - Risk-aware Planning
 
 # Education to show in About widget
 education:
@@ -120,11 +121,11 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a Ph.D. student at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). I am highly interested in perception-aware planning and control for autonomous robots with safety and correctness guarantees. 
+Hello! I am a Ph.D. student at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). I am interested in perception-aware planning and control with user preferences for autonomous robots with safety and correctness guarantees. 
 
 Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation.
 
-*My research vision centers on developing intelligent robotic systems for complex, safety-critical applications with an emphasis on informed decision-making.*
+*My research vision centers on developing the theoretical foundations and practical implementations of intelligent robotic systems for complex, safety-critical applications with an emphasis on informed decision-making.*
 
 [Here](https://dishakamale.github.io/robotics/uploads/resume.pdf) is my professional summary.  
 {style="text-align: justify;"}
