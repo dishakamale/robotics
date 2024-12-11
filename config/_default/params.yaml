@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Lehigh University'
+    description: 'Disha Kamale. A robotics researcher specializing in safe planning, decision-making, perception-aware planning and formal methods. Currently a research assistant and phd student at Lehigh Univeristy working with Dr. Cristian-Ioan Vasile.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
