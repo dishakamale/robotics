@@ -35,10 +35,20 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+# imaging:
+#   resampleFilter: lanczos
+#   quality: 100
+#   anchor: smart
 imaging:
   resampleFilter: lanczos
   quality: 100
   anchor: smart
+params:
+  features:
+    avatar:
+      size: large 
+      quality: 100
+      force_resize: false
 timeout: 600000
 taxonomies:
   tag: tags
