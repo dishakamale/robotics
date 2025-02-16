@@ -1,0 +1,8 @@
+# Purpose: Define output formats for Hugo site
+home:
+  - HTML
+  - RSS
+  - JSON
+  - WebAppManifest
+  - sitemap
+  - robots

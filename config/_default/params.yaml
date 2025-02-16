@@ -38,7 +38,7 @@ marketing:
       author: 'Disha Kamale'
       keywords: 'Disha Kamale, robotics researcher, safe planning, perception-aware planning, formal methods, Lehigh University, robotics PhD student'
       canonical: 'https://dishakamale.github.io/robotics/'  # Add your actual URL
-      image: 'content/authors/admin/avatar.jpg'    # Add a professional photo
+      image: ''    # Add a professional photo
       google_site_verification: 'lCYWCp9Lff2Y5h9C4b9w5-HFPa2Bq7jZgPbvxSGZ8a8'               # Add if you have Google verification
       google: 'lCYWCp9Lff2Y5h9C4b9w5-HFPa2Bq7jZgPbvxSGZ8a8' 
 

@@ -1,0 +1,4 @@
+# Purpose: Tell search engines how to crawl your site
+User-agent: *
+Allow: /
+Sitemap: https://dishakamale.github.io/robotics/sitemap.xml
