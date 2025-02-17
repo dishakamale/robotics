@@ -12,7 +12,6 @@ build:
   buildStats:
     enable: true
   cssMinify: true
-
 module:
   hugoVersion:
     extended: true
@@ -20,6 +19,10 @@ module:
   proxy: direct
   imports:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+      version: v5.9.7
+    - path: github.com/HugoBlox/theme-academic-cv
+      version: master
+
 # Updated outputs section
 outputs:
   home: 
