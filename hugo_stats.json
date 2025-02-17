@@ -1,0 +1,47 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "aside",
+      "body",
+      "code",
+      "div",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "li",
+      "link",
+      "meta",
+      "p",
+      "pre",
+      "script",
+      "section",
+      "span",
+      "strong",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "chroma",
+      "fragment",
+      "highlight",
+      "notes",
+      "reveal",
+      "slides"
+    ],
+    "ids": [
+      "code-highlighting",
+      "controls",
+      "create-slides-in-markdown-with-hugo-blox-builder",
+      "custom-css-example",
+      "custom-slide",
+      "features",
+      "fragments",
+      "math",
+      "questions",
+      "speaker-notes",
+      "themes"
+    ]
+  }
+}
