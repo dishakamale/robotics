@@ -6,7 +6,43 @@
 # title: Disha Kamale # Website name
 baseURL: 'https://dishakamale.github.io/robotics/' # Website URL
 languageCode: 'en-us'
-title: 'Disha Kamale | Robotics Researcher'
+title: 'Disha Kamale'
+
+build:
+  buildStats:
+    enable: true
+  cssMinify: true
+
+module:
+  proxy: direct
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+# Updated outputs section
+outputs:
+  home: 
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+    - headers
+    - redirects
+    - SITEMAP
+  section: 
+    - HTML
+    - RSS
+
+outputFormats:
+  SITEMAP:
+    mediaType: "application/xml"
+    baseName: "sitemap"
+    isHTML: false
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+
 ############################
 ## LANGUAGE
 ############################
@@ -33,9 +69,7 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
-outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+
 # imaging:
 #   resampleFilter: lanczos
 #   quality: 100
@@ -69,7 +103,7 @@ related:
       weight: 70
 security:
   _merge: deep
-sitemap:
-  _merge: deep
+# sitemap:
+#   _merge: deep
 minify:
   _merge: deep
