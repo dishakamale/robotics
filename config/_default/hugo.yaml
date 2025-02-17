@@ -14,10 +14,12 @@ build:
   cssMinify: true
 
 module:
+  hugoVersion:
+    extended: true
+    min: "0.134.0"
   proxy: direct
   imports:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-
 # Updated outputs section
 outputs:
   home: 
