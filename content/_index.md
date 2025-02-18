@@ -53,18 +53,8 @@ sections:
 
   - block: markdown
     content:
-      title: 
-      subtitle: 'Talks & Features'
-      text: |
-        - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
-        - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
-        - **[Oct 2024]** Our paper on "Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation" is accepted at CDC 2024. See you in Milan!
-        - **[May 2024]** Presented our recent paper on planning with relaxation for multi-robot teams at ICRA 2024, Yokohama, Japan. 
-        - **[May 2024]** Co-organized a workshop on formal methods at ICRA.  
-        - Featured in [Lehigh Mechanical Engineering's Women's History Month](https://engineering.lehigh.edu/meche/news/mechanical-engineering-celebrates-womens-history-month)
-        - GSRS article- [The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games](https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/)
-
-      subtitle: 'News'
+      title: 'Talks, News & Features'
+      subtitle: 
       text: |
         - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
         - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
