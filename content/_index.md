@@ -51,23 +51,7 @@ sections:
   #   design:
   #     columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title: 
-  #     subtitle: 'Talks & Features'
-  #     text: |
-  #       - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
-  #       - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
-  #       - **[Oct 2024]** Our paper on "Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation" is accepted at CDC 2024. See you in Milan!
-  #       - **[May 2024]** Presented our recent paper on planning with relaxation for multi-robot teams at ICRA 2024, Yokohama, Japan. 
-  #       - **[May 2024]** Co-organized a workshop on formal methods at ICRA.  
-  #       - Featured in [Lehigh Mechanical Engineering's Women's History Month](https://engineering.lehigh.edu/meche/news/mechanical-engineering-celebrates-womens-history-month)
-  #       - GSRS article- [The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games](https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/)
-  #   design:
-  #     columns: '2'
-
-
-    - block: markdown
+  - block: markdown
     content:
       title: 
       subtitle: 'Talks & Features'
@@ -78,32 +62,10 @@ sections:
         - **[May 2024]** Presented our recent paper on planning with relaxation for multi-robot teams at ICRA 2024, Yokohama, Japan. 
         - **[May 2024]** Co-organized a workshop on formal methods at ICRA.  
         - Featured in [Lehigh Mechanical Engineering's Women's History Month](https://engineering.lehigh.edu/meche/news/mechanical-engineering-celebrates-womens-history-month)
-        - GSRS article- [The World Through a Robot's Lens: Enabling Complex Decision-Making With The Help of Reactive Games](https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/)
-    design:
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-
-  - block: markdown
-    content:
-      title:
-      subtitle: 'News'
-      text: |
-        - **[Oct 2024]** Paper accepted at CDC 2024: "Learning Optimal Signal Temporal Logic Decision Trees for Classification"
-        - **[May 2024]** Presenting at ICRA 2024 in Yokohama, Japan
-        - **[May 2024]** Co-organized ICRA workshop on formal methods
-        - **[March 2024]** Featured in Lehigh ME's Women's History Month
-        - **[Nov 2023]** GSRS article published on our robotics research
-    design:
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-
-  - block: markdown
+        - GSRS article- [The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games](https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/)
     design:
       columns: '2'
-      spacing:
-        padding: ['0', '0', '20px', '0']
+
 
   - block: experience
     content:
