@@ -31,7 +31,7 @@ bio: My research interests include safe, perception-aware decision-making and pl
 interests:
   - Perception-aware Planning
   - Optimal Planning with User Preferences
-  - Safe Decision-making
+  - Safe Autonomy
   - Risk-aware Planning
 
 # Education to show in About widget

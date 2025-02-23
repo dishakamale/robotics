@@ -41,6 +41,7 @@ marketing:
       image: ''    # Add a professional photo
       google_site_verification: 'lCYWCp9Lff2Y5h9C4b9w5-HFPa2Bq7jZgPbvxSGZ8a8'               # Add if you have Google verification
       google: 'lCYWCp9Lff2Y5h9C4b9w5-HFPa2Bq7jZgPbvxSGZ8a8' 
+      canonicalURL: true
 
 # Site header
 
