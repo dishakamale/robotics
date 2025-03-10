@@ -56,7 +56,7 @@ sections:
       title: 'Talks, News & Features'
       subtitle: 
       text: |
-        - **[Mar 2025]** I have been selected as the [NSF CPS Rising Star](https://cps-vo.org/group/CPSRisingStarsWorkshop25).
+        - **[Mar 2025]** I am honored to have been selected as the [NSF CPS Rising Star 2025](https://cps-vo.org/group/CPSRisingStarsWorkshop25).
         - **[Mar 2025]** I gave a talk at Robotics and Autonomous Systems Group, George Mason University. Thank you Prof. Gregory Stein for hosting me. 
         - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
         - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
