@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -56,6 +56,8 @@ sections:
       title: 'Talks, News & Features'
       subtitle: 
       text: |
+        - **[Mar 2025]** I have been selected as the [NSF CPS Rising Star](https://cps-vo.org/group/CPSRisingStarsWorkshop25).
+        - **[Mar 2025]** I gave a talk at Robotics and Autonomous Systems Group, George Mason University. Thank you Prof. Gregory Stein for hosting me. 
         - **[Aug 2024]** I gave a talk at VeHICaL group meeting, UC Berkley. Thank you Prof. Sanjit Seshia for hosting me. 
         - **[July 2024]** I gave a talk at ILIAD group meeting, Stanford University. Thank you Prof. Dorsa Sadigh for hosting me. 
         - **[Oct 2024]** Our paper on "Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation" is accepted at CDC 2024. See you in Milan!

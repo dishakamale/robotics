@@ -40,9 +40,6 @@ education:
     - course: PhD, Mechanical Engineering and Mechanics
       institution: Lehigh University
       year: 2020 - present
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
     - course: B.Tech. in Mechanical Engineering
       institution: Visvesvaraya National Institute of Technology (NIT Nagpur), India
       year: 2019
