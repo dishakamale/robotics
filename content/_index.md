@@ -66,7 +66,7 @@ sections:
         - Featured in [Lehigh Mechanical Engineering's Women's History Month](https://engineering.lehigh.edu/meche/news/mechanical-engineering-celebrates-womens-history-month)
         - GSRS article- [The World Through a Robot’s Lens: Enabling Complex Decision-Making With The Help of Reactive Games](https://wordpress.lehigh.edu/gsrs/2023/11/29/the-world-through-a-robots-lens-enabling-complex-decision-making-with-the-help-of-reactive-games/)
     design:
-      columns: '2'
+      columns: '1'
 
 
   - block: experience
