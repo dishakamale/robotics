@@ -118,9 +118,9 @@ social:
 highlight_name: true
 ---
 
-Hello and welcome! I am a final year Ph.D. candidate at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). My research vision centers on developing the theoretical foundations and practical implementations of intelligent robotic systems for complex, safety-critical applications with an emphasis on informed decision-making. Towards this, my doctoral research focuses on perception-aware planning and safe decision making with formal guarantees of safety, correctness and performance. 
+Hello! I am a final year Ph.D. candidate at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). My research vision centers on developing the theoretical foundations and practical implementations of intelligent robotic systems for complex, safety-critical applications with an emphasis on informed decision-making. Towards this, my doctoral research focuses on perception-aware planning and safe decision making with formal guarantees of safety, correctness and performance. 
 
-I spent a wonderful summer at the [Honda Research Institute, USA](https://usa.honda-ri.com/) as an intern. Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation.
+in 2024, I spent a wonderful summer at the [Honda Research Institute, USA](https://usa.honda-ri.com/) as an intern. Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation.
 
 I am honored to have been selected as the NSF CPS Rising star 2025 and P C Rossin Dean's fellow 2020-21. 
 
