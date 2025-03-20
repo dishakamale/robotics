@@ -118,11 +118,13 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a final year Ph.D. candidate at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). My research vision centers on developing the theoretical foundations and practical implementations of intelligent robotic systems for complex, safety-critical applications with an emphasis on informed decision-making. Towards this, my doctoral research focuses on perception-aware planning and safe decision making with formal guarantees of safety, correctness and performance. 
+Hello! I am a final year Ph.D. candidate at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). I am passionate about developing the theoretical foundations and practical implementations of intelligent robotic systems for complex applications with an emphasis on informed decision-making. Towards this, my doctoral research focuses on perception-aware planning and safe decision making with formal guarantees of safety, correctness and performance. 
 
-in 2024, I spent a wonderful summer at the [Honda Research Institute, USA](https://usa.honda-ri.com/) as an intern. Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation. During my undergraduate years, I spent a summer working on human-robot tekecommunication at The Biorobotics Institute, Italy. I finished my undergraduate studies in Mechanical Engineering at NIT Nagpur in 2019. 
+In 2024, I spent a wonderful summer at the [Honda Research Institute, USA](https://usa.honda-ri.com/) as a research intern. Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation. During my undergraduate years, I spent a summer working on human-robot tekecommunication at [The Biorobotics Institute, Italy](https://www.santannapisa.it/en/research-themes-biorobotics-institute). I finished my undergraduate studies in Mechanical Engineering at NIT Nagpur in 2019. 
 
 I am honored to have been selected as the NSF CPS Rising star 2025 and P C Rossin Dean's fellow 2020-21. 
+
+I am on the job market and am actively looking for postdoctoral and industry research positions. If you think I might be a good fit, please reach out! 
 
 [Here](https://dishakamale.github.io/robotics/uploads/resume.pdf) is my professional summary.  
 {style="text-align: justify;"}
