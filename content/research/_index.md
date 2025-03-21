@@ -43,9 +43,9 @@ sections:
 
 <style>
 .container {
-  max-width: 1400px !important;
+  max-width: 800px !important;
 }
 .article-container {
-  max-width: 1400px !important;
+  max-width: 800px !important;
 }
 </style>
