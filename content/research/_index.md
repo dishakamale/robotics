@@ -14,6 +14,7 @@ sections:
   - block: portfolio
     content:
       title: Perception-Aware Planning
+      subtitle: "Most existing approaches think about perception-aware planning in a sequential way. However, owing to real-world sensing limitations and diffciulties, it is important to account for any relevant, potentially incomplete information at hand and instantiate planning. The decisions can be further refined as the robots gain more knowledge about the environment. To address this, my work considers evolution of semantic information and studies the interleaving between incrementally improving perception and the corresponding decisions to enable safer, timely decision-making."
       filters:
         folders:
           - perception-projects
