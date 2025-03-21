@@ -8,7 +8,7 @@ image:
   caption: 'Active Exploration Framework'
   focal_point: Smart
   preview_only: false
-  width: 60%
+  width: 50%
 
 links:
   - icon: file-pdf
