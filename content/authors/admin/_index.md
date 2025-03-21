@@ -124,7 +124,7 @@ In 2024, I spent a wonderful summer at the [Honda Research Institute, USA](https
 
 I am honored to have been selected as the NSF CPS Rising star 2025 and P C Rossin Dean's fellow. 
 
-*I am on the job market and am actively looking for postdoctoral and industry research positions. If you think I might be a good fit, please reach out!*
+*I am on the job market (graduating in May 2025) and am actively looking for postdoctoral and industry research positions. If you think I might be a good fit, please reach out!*
 
 My CV is available [here](https://dishakamale.github.io/robotics/uploads/resume.pdf).  
 {style="text-align: justify;"}
