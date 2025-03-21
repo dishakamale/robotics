@@ -22,7 +22,7 @@ sections:
     design:
       columns: '1'
       view: showcase
-      ##flip_alt_rows: false
+      flip_alt_rows: false
 
   - block: portfolio
     content:
@@ -34,6 +34,7 @@ sections:
     design:
       columns: '1'
       view: showcase
+      flip_alt_rows: false
       spacing:
         padding: ["100px", "0", "0", "0"]
 ---
