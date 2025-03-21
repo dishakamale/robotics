@@ -126,5 +126,5 @@ I am honored to have been selected as the NSF CPS Rising star 2025 and P C Rossi
 
 *I am on the job market and am actively looking for postdoctoral and industry research positions. If you think I might be a good fit, please reach out!*
 
-[Here](https://dishakamale.github.io/robotics/uploads/resume.pdf) is my professional summary.  
+My CV is available [here](https://dishakamale.github.io/robotics/uploads/resume.pdf).  
 {style="text-align: justify;"}
