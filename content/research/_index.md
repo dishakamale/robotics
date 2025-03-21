@@ -23,6 +23,7 @@ sections:
       columns: '1'
       view: showcase
       flip_alt_rows: false
+      section_width: standard
 
   - block: portfolio
     content:
@@ -37,4 +38,5 @@ sections:
       flip_alt_rows: false
       spacing:
         padding: ["100px", "0", "0", "0"]
+      section_width: standard
 ---
