@@ -1,6 +1,6 @@
 ---
 title: Research
-type: landing
+type: project
 
 sections:
   - block: markdown
