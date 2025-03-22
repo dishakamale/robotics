@@ -1,0 +1,106 @@
+{{ if eq .Type "landing" }}
+  {{ if eq .RelPermalink "/robotics/research/" }}
+    <div class="research-toc">
+      <div class="toc-inner">
+        <h3>Research Areas</h3>
+        <ul>
+          <li><a href="#perception-aware-planning">Perception-Aware Planning</a></li>
+          <li><a href="#optimal-planning-with-user-preferences">Optimal Planning with User Preferences</a></li>
+          <!-- Add more research areas as needed -->
+        </ul>
+      </div>
+    </div>
+
+    <style>
+      .research-toc {
+        position: fixed;
+        top: 120px;
+        left: 20px;
+        max-width: 200px;
+        background: #fff;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        z-index: 100;
+        transition: opacity 0.3s ease;
+      }
+      
+      .toc-inner h3 {
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-weight: 600;
+      }
+      
+      .research-toc ul {
+        list-style-type: none;
+        padding-left: 0;
+        margin-bottom: 0;
+      }
+      
+      .research-toc li {
+        margin-bottom: 8px;
+        font-size: 14px;
+      }
+      
+      .research-toc a {
+        color: #555;
+        text-decoration: none;
+        display: block;
+        padding: 4px 8px;
+        border-left: 2px solid transparent;
+      }
+      
+      .research-toc a:hover {
+        color: #0056b3;
+        border-left: 2px solid #0056b3;
+        background: rgba(0,86,179,0.05);
+      }
+      
+      .research-toc a.active {
+        color: #0056b3;
+        border-left: 2px solid #0056b3;
+        font-weight: 600;
+      }
+      
+      @media (max-width: 1200px) {
+        .research-toc {
+          display: none;
+        }
+      }
+    </style>
+
+    <script>
+      // Highlight active section in TOC based on scroll position
+      document.addEventListener('DOMContentLoaded', function() {
+        const sections = document.querySelectorAll('.block');
+        const tocLinks = document.querySelectorAll('.research-toc a');
+        
+        function setActiveLink() {
+          let found = false;
+          
+          sections.forEach((section) => {
+            if (section.id) {
+              const rect = section.getBoundingClientRect();
+              
+              if (rect.top <= 150 && rect.bottom >= 150 && !found) {
+                found = true;
+                
+                tocLinks.forEach((link) => {
+                  if (link.getAttribute('href') === '#' + section.id) {
+                    link.classList.add('active');
+                  } else {
+                    link.classList.remove('active');
+                  }
+                });
+              }
+            }
+          });
+        }
+        
+        window.addEventListener('scroll', setActiveLink);
+        setActiveLink(); // Call once on load
+      });
+    </script>
+  {{ end }}
+{{ end }}
