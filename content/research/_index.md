@@ -20,7 +20,7 @@ sections:
         padding: ["200px", "0", "50px", "0"]  # Added more top padding
       background:
         image:
-          filename: images/tn.png
+          filename: img/research.jpg
           filters:
             brightness: 0.7  # Darkens the image to make text more readable
         position: center
