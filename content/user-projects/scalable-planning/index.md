@@ -1,5 +1,5 @@
 ---
-title: A∗-based Planning with Relaxation over Large Environments
+title: A∗-based Planning with Relaxation over Large City-scale Environments
 summary: An efficient A∗-based planning framework for temporal logic tasks in large robot environments, incorporating user preferences for task relaxation.
 date: '2024-01-05'  # Adjust date to control display order
 
