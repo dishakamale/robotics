@@ -1,0 +1,38 @@
+{{ $item := .item }}
+
+<div class="card-simple view-showcase">
+  <div class="row">
+    <!-- Image on the left -->
+    <div class="col-md-7">
+      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ with $resource }}
+        <a href="{{ $item.RelPermalink }}">
+          <div class="img-hover-zoom">
+            <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" class="img-fluid">
+          </div>
+        </a>
+      {{ end }}
+    </div>
+    
+    <!-- Content on the right -->
+    <div class="col-md-5">
+      {{ with $item.Title }}
+      <div class="section-subheading article-title mb-1 mt-0">
+        <a href="{{ $item.RelPermalink }}">{{ . | markdownify | emojify }}</a>
+      </div>
+      {{ end }}
+
+      {{ with $item.Params.summary }}
+      <a href="{{ $item.RelPermalink }}" class="summary-link">
+        <div class="article-style">
+          {{ . | plainify | emojify }}
+        </div>
+      </a>
+      {{ end }}
+
+      <div class="btn-links">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      </div>
+    </div>
+  </div>
+</div>
