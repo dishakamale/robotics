@@ -1,6 +1,6 @@
 ---
 title: A∗-based Planning with Relaxation over Large City-scale Environments
-summary: An efficient A∗-based planning framework for temporal logic tasks in large robot environments, incorporating user preferences for task relaxation.
+summary: An efficient A∗-based planning framework for temporal logic tasks with user preferences for relaxation in large robot environments. We propose a novel progress-based heuristics that improves the search and runtime performance by tens of orders of magnitude over large city-sized graphs containing over a hundred thousand nodes and over a million edges. 
 date: '2024-01-05'  # Adjust date to control display order
 
 image:
