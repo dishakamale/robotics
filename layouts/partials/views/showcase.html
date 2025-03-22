@@ -1,10 +1,12 @@
 {{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="card-simple view-showcase">
   <div class="row">
     <!-- Image on the left -->
     <div class="col-md-7">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
       {{ with $resource }}
         <a href="{{ $item.RelPermalink }}">
           <div class="img-hover-zoom">
@@ -17,20 +19,28 @@
     <!-- Content on the right -->
     <div class="col-md-5">
       {{ with $item.Title }}
-      <div class="section-subheading article-title mb-1 mt-0">
+      <div class="section-subheading article-title mb-3 mt-0">
         <a href="{{ $item.RelPermalink }}">{{ . | markdownify | emojify }}</a>
+      </div>
+      {{ end }}
+
+      {{ with $item.Params.subtitle }}
+      <div class="article-metadata">
+        <div>
+          <span class="article-subtitle">{{ . | markdownify | emojify }}</span>
+        </div>
       </div>
       {{ end }}
 
       {{ with $item.Params.summary }}
       <a href="{{ $item.RelPermalink }}" class="summary-link">
-        <div class="article-style">
+        <div class="article-style mt-3">
           {{ . | plainify | emojify }}
         </div>
       </a>
       {{ end }}
 
-      <div class="btn-links">
+      <div class="btn-links mt-3">
         {{ partial "page_links" (dict "page" $item "is_list" 1) }}
       </div>
     </div>
