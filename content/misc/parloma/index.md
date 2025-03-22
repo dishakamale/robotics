@@ -1,6 +1,6 @@
 ---
-title: "Learning Optimal Signal Temporal Logic Decision Trees for Classification"
-summary: "Given a labeled time-series data, this work aims at learning the underlying Signal Temporal Logic Formulae that specifies the behavior. The proposed approach created a decision tree for a two-class and multi-class classification problem and finds a globally optimal solution."
+title: "A Robotic Telecommunication Device for Tactile Communication"
+summary: "As part of a larger European project - PARLOMA, we developed a telecommunication device for American Sign Language which is transmitted by a sign recognition algorithm and at the receiving end, a tendon-driven robot arm replicates the transmitted signs to effectively communicate to a visually challenged user."
 date: '2024-01-02'
 categories:
   - tli
