@@ -21,7 +21,7 @@ sections:
       
     design:
       columns: '1'
-      view: masonry
+      view: classic
       flip_alt_rows: false
       #section_width: standard
 
