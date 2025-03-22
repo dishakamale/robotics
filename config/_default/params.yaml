@@ -93,6 +93,9 @@ features:
     url: 'https://github.com'
     content_dir: content
     branch: main
+  
+  custom_js: true
+  custom_css: true
 
   comment:
     provider: ''
