@@ -13,6 +13,11 @@ links:
    icon_pack: fas
    name: Paper
    url: https://dl.acm.org/doi/abs/10.1145/3575870.3587120
+
+ - icon: file-pdf
+   icon_pack: fas
+   name: Journal
+   url: https://www.sciencedirect.com/science/article/pii/S1751570X25000020
 ---
 
 <!-- This work introduces a Mixed Integer Linear Programming (MILP) based approach for control synthesis using weighted Signal Temporal Logic (wSTL), extending traditional STL to incorporate user preferences and priorities.
