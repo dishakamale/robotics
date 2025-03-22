@@ -39,8 +39,23 @@ sections:
       view: showcase
       flip_alt_rows: false
       spacing:
-        padding: ["100px", "0", "0", "0"]
+        padding: ["50px", "0", "0", "0"]
       #section_width: wide
+
+  - block: portfolio
+    id: tli
+    content:
+      title: Learning Task Specifications from Time-series Data
+      filters:
+        folders:
+          - tli
+      
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
+      spacing:
+        padding: ["50px", "0", "0", "0"]
 ---
 
 <style>
