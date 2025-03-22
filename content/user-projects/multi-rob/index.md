@@ -1,6 +1,6 @@
 ---
 title: Optimal Control Synthesis with Relaxed Global Temporal Logic Specifications for Homogeneous Multi-robot Teams
-summary: A hybrid approach combining automata-based and MILP-based methods for control synthesis of multi-robot teams with relaxable temporal logic specifications.
+summary: This work addresses the problem of optimal planning for homogeneous team of robots given a global task specification. The proposed flow-based optimization framework brings together the scalability of mixed integer programming-based and the expressivity of automata-based approaches. 
 date: '2024-01-04'  # Adjust date to control display order
 
 image:
