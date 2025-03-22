@@ -1,6 +1,6 @@
 ---
 title: Energy-constrained Active Exploration with Incremental Perception
-summary: An active exploration framework that optimizes target search under energy constraints given no prior information.
+summary: This work considers an autonomous ground robot deployed in a geometrically known and semantically unknown environment. Given an incrementally improving semantic perception module and finite energy budget onboard, we propose an active exploration framework that optimizes target search under energy constraints given no prior information.
 date: '2024-01-02'
 categories:
   - Perception-Aware
