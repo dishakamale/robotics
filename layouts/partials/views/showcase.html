@@ -4,7 +4,7 @@
 <div class="card-simple view-showcase">
   <div class="row">
     <!-- Image on the left -->
-    <div class="col-md-7">
+    <div class="col-md-4">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
       {{ with $resource }}
@@ -17,7 +17,7 @@
     </div>
     
     <!-- Content on the right -->
-    <div class="col-md-5">
+    <div class="col-md-7">
       {{ with $item.Title }}
       <div class="section-subheading article-title mb-3 mt-0">
         <a href="{{ $item.RelPermalink }}">{{ . | markdownify | emojify }}</a>
