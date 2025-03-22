@@ -15,7 +15,7 @@ sections:
     content:
       title: ""
       text: |
-        <div style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('/robotics/img/research.jpg'); background-size: cover; background-position: center; height: 300px; margin-bottom: 30px; border-radius: 10px;"></div>
+        <div style="background-image: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.4)), url('/robotics/img/research-header.jpg'); background-size: 80%; background-position: center; background-repeat: no-repeat; height: 300px; margin-bottom: 30px; border-radius: 10px;"></div>
     design:
       spacing:
         padding: ["50px", "0", "0", "0"]
