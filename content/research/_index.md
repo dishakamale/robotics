@@ -14,18 +14,11 @@ sections:
   - block: markdown
     content:
       title: ""
-      text: ""
+      text: |
+        <div style="background-image: url('/img/research-header.jpg'); background-size: cover; background-position: center; height: 300px; margin-bottom: 30px; border-radius: 10px;"></div>
     design:
       spacing:
-        padding: ["200px", "0", "50px", "0"]  # Added more top padding
-      background:
-        image:
-          filename: research.jpg
-          filters:
-            brightness: 0.7  # Darkens the image to make text more readable
-        position: center
-        size: cover
-        text_color_light: true  # Use light text on dark background
+        padding: ["50px", "0", "0", "0"]
 
   - block: portfolio
     id: perception-aware-planning  # Add this ID
