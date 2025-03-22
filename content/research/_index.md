@@ -3,13 +3,29 @@ title: Research
 type: landing
 
 sections:
+  # - block: markdown
+  #   content:
+  #     title: ""
+  #     text: ""
+  #   design:
+  #     spacing:
+  #       padding: ["100px", "0", "0", "0"]
+
   - block: markdown
     content:
       title: ""
       text: ""
     design:
       spacing:
-        padding: ["100px", "0", "0", "0"]
+        padding: ["200px", "0", "50px", "0"]  # Added more top padding
+      background:
+        image:
+          filename: images/tn.png
+          filters:
+            brightness: 0.7  # Darkens the image to make text more readable
+        position: center
+        size: cover
+        text_color_light: true  # Use light text on dark background
 
   - block: portfolio
     id: perception-aware-planning  # Add this ID
