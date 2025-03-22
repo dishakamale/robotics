@@ -56,6 +56,21 @@ sections:
       flip_alt_rows: false
       spacing:
         padding: ["50px", "0", "0", "0"]
+
+  - block: portfolio
+    id: misc
+    content:
+      title: Past Projects
+      filters:
+        folders:
+          - misc
+      
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
+      spacing:
+        padding: ["50px", "0", "0", "0"]
 ---
 
 <style>
