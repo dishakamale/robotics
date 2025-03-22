@@ -15,7 +15,10 @@ sections:
     content:
       title: ""
       text: |
-        <div style="background-image: url('/robotics/img/research-header.jpg'); background-size: cover; background-position: center; height: 300px; margin-bottom: 30px; border-radius: 10px;"></div>
+        <div style="position: relative; height: 300px; margin-bottom: 30px; border-radius: 10px; overflow: hidden;">
+              <div style="background-image: url('/robotics/img/research-header.jpg'); background-size: cover; background-position: center; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
+              <div style="background-color: rgba(0,0,0,0.5); position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
+        </div>
     design:
       spacing:
         padding: ["50px", "0", "0", "0"]
