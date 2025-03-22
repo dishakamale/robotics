@@ -7,7 +7,7 @@ categories:
 image:
   caption: 'Active Exploration Framework'
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   width: 10%
 
 links:

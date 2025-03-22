@@ -21,7 +21,7 @@ sections:
       
     design:
       columns: '1'
-      view: classic
+      view: showcase
       flip_alt_rows: false
       #section_width: standard
 
@@ -34,7 +34,7 @@ sections:
       
     design:
       columns: '1'
-      view: classic
+      view: showcase
       flip_alt_rows: false
       spacing:
         padding: ["100px", "0", "0", "0"]
