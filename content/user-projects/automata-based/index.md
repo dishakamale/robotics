@@ -1,6 +1,6 @@
 ---
 title: Automata-based Optimal Planning with Relaxed Specifications
-summary: A framework for planning with relaxed specifications using weighted finite state edit systems to capture user preferences and task modifications.
+summary: This work proposes an automata-based approach to optimal planning with user preferences for relaxation. This work unifies several existing notions of relaxation including deadline relaxation, minimum revision, etc. 
 date: '2024-01-03'
 
 image:
