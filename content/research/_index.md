@@ -39,6 +39,7 @@ sections:
     id: optimal-planning-with-user-preferences
     content:
       title: Optimal Planning with User Preferences
+      subtitle: "Often, the complex tasks assigned to robots could have infeasible or conlficting sub-requirements. In such cases, the traditional formal control synthesis approaches fail. In order to achieve meaningful task satisfaction in scuh scenarios rather than *giving up* altogether, we propose formal planning frameworks that incorporate user preferences for addressing potential infeasibilities and optimally plan for tasks."
       filters:
         folders:
           - user-projects
