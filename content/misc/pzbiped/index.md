@@ -1,6 +1,6 @@
 ---
 title: Static Walking for a Bipedal Robot
-summary: As an undergraduate project, I worked on static gait generation for a bipedal robot (designed and fabricated at our lab). 
+summary: As an undergraduate project, I worked on static gait generation for a bipedal robot (designed and fabricated at our student-run lab). 
 tags:
   - Perception-Aware
 date: '2024-01-01'
