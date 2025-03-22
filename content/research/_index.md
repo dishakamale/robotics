@@ -21,7 +21,7 @@ sections:
       
     design:
       columns: '1'
-      view: card
+      view: masonry
       flip_alt_rows: false
       #section_width: standard
 
@@ -34,7 +34,7 @@ sections:
       
     design:
       columns: '1'
-      view: card
+      view: classic
       flip_alt_rows: false
       spacing:
         padding: ["100px", "0", "0", "0"]
