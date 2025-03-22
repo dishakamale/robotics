@@ -4,7 +4,7 @@
 <div class="card-simple view-showcase">
   <div class="row">
     <!-- Image on the left -->
-    <div class="col-md-3">
+    <div class="col-md-4">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
       {{ with $resource }}
