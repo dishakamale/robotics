@@ -1,6 +1,6 @@
 ---
 title: MILP for Control Synthesis with Weighted Signal Temporal Logic
-summary: The user preferences for priorities and importances can be formally expressed using Weighted Signal Temporal Logic (wSTL). In this line of work, we propose efficient Mixed Integer Linear Programming formulations for globally optimal control synthesis of wSTL formulae. <p style="color:rgb(0, 187, 255);">This work was invited to special issue of IFAC journal Nonlinear Analysis- Hybrid Systems, 2025.</p>
+summary: The user preferences for priorities and importances can be formally expressed using Weighted Signal Temporal Logic (wSTL). In this line of work, we propose efficient Mixed Integer Linear Programming formulations for globally optimal control synthesis of wSTL formulae. <p style="color:#00bbff;">This work was invited to special issue of IFAC journal Nonlinear Analysis- Hybrid Systems, 2025.</p>
 
 
 date: '2023-01-07'  # Adjust date to control display order
