@@ -81,6 +81,7 @@ features:
     shape: square
     padding: 20px    # Adds space around the image
     border: false    # Removes border if present
+    rotate: 90
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
