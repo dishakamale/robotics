@@ -293,14 +293,14 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: ddk320[at]lehigh[dot]edu
+      email: dkamale[at]umich[dot]edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Building C, 113 Research Dr
-        city: Bethlehem
-        region: PA
-        postcode: '18015'
+        street: 2505 Hayward St
+        city: Ann Arbor
+        region: MI
+        postcode: '48109'
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
