@@ -85,13 +85,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: Autonomous Robotic Manipulation Lab, University of Michigan
+          company_url: 'https://arm.robotics.umich.edu/#'
+          company_logo: ''
+          location: USA
+          date_start: '2025-07-22'
+          date_end: ''
         - title: Graduate Student Research Assistant
           company: Autonomous and Intelligent Robotics Lab, Lehigh University
           company_url: 'https://wordpress.lehigh.edu/robotics/'
           company_logo: ''
           location: USA
           date_start: '2020-01-01'
-          date_end: ''
+          date_end: '2025-07-20'
           # description: |2-
           #     Responsibilities include:
 
