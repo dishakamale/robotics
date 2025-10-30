@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Robotics
+role: Postdoctoral Researcher, Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Lehigh University
-    url: https://wordpress.lehigh.edu/robotics/
+  - name: University of Michigan
+    url: https://arm.robotics.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include safe, perception-aware decision-making and planning with user preferences. 
+bio: My research interests include symbolic reasoning, safe, perception-aware decision-making and planning with user preferences. 
 
 # Interests to show in About widget
 interests:
