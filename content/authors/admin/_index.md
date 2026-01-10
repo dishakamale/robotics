@@ -130,3 +130,5 @@ I am honored to have been selected as the NSF CPS Rising star 2025, ME Rising St
 
 My CV is available [here](https://dishakamale.github.io/robotics/uploads/resume.pdf).  
 {style="text-align: justify;"}
+
+*I am on job market for research scientist positions in industry. If you think I might be a good fit for your organization, please feel free to get in touch!*
