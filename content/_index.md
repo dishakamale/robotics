@@ -57,7 +57,7 @@ sections:
       subtitle: 
       text: |
         - **[Jul 2025]** Started my postdoc journey at UMich! Very excited for the new chapter. 
-        - **[Apr 2025]** Defended my PhD dissertation on "Symbolic Perception-aware Planning with Relaxation for Complex Temporal Logic Goals". Deeply greatful for the support of my advisor, family and friends. You can find my thesis [here](https://www.proquest.com/intermediateredirectforezproxy)! 
+        - **[Apr 2025]** Defended my PhD dissertation on "Symbolic Perception-aware Planning with Relaxation for Complex Temporal Logic Goals". Deeply grateful for the support of my advisor, family and friends. You can find my thesis [here](https://www.proquest.com/intermediateredirectforezproxy)! 
         - **[Apr 2025]** I gave a talk at Safe Robotics Lab, Princeton University. Thanks to Prof. Jaime Fisac for hosting me.
         - **[Mar 2025]** I gave a talk at xLab, University of Pennsylvania. Thanks to Prof. Rahul Mangharam for hosting me. 
         - **[Mar 2025]** Honored to have been selected as the [NSF CPS Rising Star 2025](https://cps-vo.org/group/CPSRisingStarsWorkshop25).
