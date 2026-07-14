@@ -118,7 +118,9 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a postdoctoral researcher at the [Autonomous Robotic Manipulation lab](https://arm.robotics.umich.edu/), University of Michigan advised by [Prof. Dmitry Berenson](https://berenson.robotics.umich.edu/). I completed Ph.D. at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile). I am passionate about developing the **theoretical foundations and practical implementations of intelligent robotic systems** for complex applications with an emphasis on **informed planning and decision-making**. 
+Hello! I am a postdoctoral researcher at the [Autonomous Robotic Manipulation lab](https://arm.robotics.umich.edu/), University of Michigan advised by [Prof. Dmitry Berenson](https://berenson.robotics.umich.edu/). I completed Ph.D. at Lehigh University advised by [Prof. Cristian-Ioan Vasile](https://engineering.lehigh.edu/faculty/cristian-ioan-vasile).
+I build **planning and decision-making algorithms** for robots operating in complex, uncertain environments, with a focus on safety, robustness, and scalability.
+ <!-- I am passionate about developing the **theoretical foundations and practical implementations of intelligent robotic systems** for complex applications with an emphasis on **informed planning and decision-making**.  -->
 
 <!--
 Towards this, my doctoral research focuses on perception-aware planning and safe decision making with formal guarantees of safety, correctness and performance. This work has potential applications in autonomous navigation, human-robot collaboration, and space exploration, to name a few.
@@ -131,4 +133,6 @@ I am honored to have been selected as the NSF CPS Rising star 2025, ME Rising St
 My CV is available [here](https://dishakamale.github.io/robotics/uploads/resume.pdf).  
 {style="text-align: justify;"}
 
-*I am on job market for research scientist positions in industry. If you think I might be a good fit for your organization, please feel free to get in touch!*
+<!-- *I am on job market for research scientist positions in industry. If you think I might be a good fit for your organization, please feel free to get in touch!* -->
+
+*I'm on the job market for research scientist/engineer and robotics autonomy roles in industry, where I aim to bring planning and decision-making research into real-world systems. If that sounds like a fit for your team, I'd love to hear from you!*
