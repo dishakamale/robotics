@@ -128,7 +128,7 @@ Towards this, my doctoral research focuses on perception-aware planning and safe
 
 In 2024, I spent a wonderful summer at the [Honda Research Institute, USA](https://usa.honda-ri.com/) as a research intern. Before embarking on my journey at Lehigh, I was a visiting research intern at the [Intelligent Manipulation Lab](https://intmanlab.com/index.html), University of Lincoln, UK where I got the opportunity to work on planning and control for human-robot shared manipulation. During my undergraduate years, I spent a summer working on human-robot tele-communication at [The Biorobotics Institute, Italy](https://www.santannapisa.it/en/research-themes-biorobotics-institute). I completed my undergraduate studies in Mechanical Engineering at NIT Nagpur in 2019. 
 
-I am honored to have been selected as an RSS Pioneer 2026, NSF CPS Rising star 2025, ME Rising Star 2025, and P C Rossin Dean's fellow during my Ph.D. 
+I am honored to have been selected as an RSS Pioneer 2026, NSF CPS Rising star 2025, ME Rising Star 2025, and P C Rossin Dean's fellow. 
 
 My CV is available [here](https://dishakamale.github.io/robotics/uploads/resume.pdf).  
 {style="text-align: justify;"}
